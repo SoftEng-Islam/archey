@@ -1,3 +1,3 @@
-Archey is a system information tool written in Python.
+# Archey Tool
 
-I am planning to do a complete re-write of Archey. Please stay tuned.
+## Archey is a system information tool written in Python.
